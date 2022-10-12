@@ -1,23 +1,23 @@
-#Shell, I/O Redirections
+# Shell, I/O Redirections
 
 This project was done during the alx Software Engineering course
 
-##Learning Objectives
+## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-###Shell, I/O Redirection
+### Shell, I/O Redirection
 + What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 + How to redirect standard output to a file
 + How to get standard input from a file instead of the keyboard
 + How to send the output from one program to the input of another program
 + How to combine commands and filters with redirections
 
-###Special Characters
+### Special Characters
 + What are special characters
 + Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
 
 
-###Other Man Pages
+### Other Man Pages
 + How to display a line of text
 + How to concatenate files and print on the standard output
 + How to reverse a string
@@ -26,7 +26,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 + What is the /etc/shadow file and what is its format
 
 
-####Files 
+#### Files 
 
 All the following files are scripts
 
@@ -61,5 +61,5 @@ All the following files are scripts
 | 102-acrostic           | Decodes acrostics that use the first letter of each line. | 
 | 103-the_biggest_fan    | Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. |
 
-####&copy; Onwubiko Okem Precious
+#### &copy; Onwubiko Okem Precious
 Alx Cohort 10
